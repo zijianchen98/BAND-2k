@@ -8,7 +8,7 @@ We constructed so far the largest banding-affected database and named it the Ban
 ![The example images in BAND-2k Database](https://github.com/zijianchen98/BAND-2k/blob/main/examples.jpg)
 
 ## Download
-[Google Drive] 
+[Google Drive] \
 
 [Baidu Cloud](https://pan.baidu.com/s/1C3ASxOxxhUnh7WrTqLmlPg) Code: ou16 
 
