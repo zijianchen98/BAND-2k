@@ -9,7 +9,8 @@ We constructed so far the largest banding-affected database and named it the Ban
 
 ## Download
 [Google Drive] 
-[Baidu Cloud]
+[Baidu Cloud](https://pan.baidu.com/s/1C3ASxOxxhUnh7WrTqLmlPg) Code: ou16 
+
 
 ## Citation
 **If you use the BAND-2k Database in your research, please cite**:
