@@ -10,8 +10,10 @@ We constructed so far the largest banding-affected database,  named Banding Arti
 ![The example images in BAND-2k Database](https://github.com/zijianchen98/BAND-2k/blob/main/examples.jpg)
 
 ## Database Link
+We have uploaded the BAND-2k database to both OneDrive and Baidu Netdisk, and the download links are as follows:
 [OneDrive](https://1drv.ms/u/s!AgLwywHLkSEMk1H0jkLCGOVZAyrA?e=3yQHAV) 
 [Baidu Netdisk](https://pan.baidu.com/s/1bhXsufGuGse_oCKcanlkSQ)  Code: f6w7
+
 
 
 ## Citation
