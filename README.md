@@ -1,8 +1,10 @@
 # BAND-2k Database
-The Banding Artifact Noticeable Database for Deep Learning of Image Quality Assessment. We will opensource the database and code in the future.
+A banding artifact database for Deep Learning of Image Quality Assessment. We will opensource the database and code in the future.
 
 ## Introduction
-We constructed so far the largest banding-affected database and named it the Banding Artifact Noticeable 2k Database (BAND-2k). It contains 2,000 distorted images clipped from over 870 source videos with four encoding schemes: H.264, H.265, VP9, and bit-depth manipulation. A total of 44,371 scores were collected by 23 non-experienced subjects in an offline laboratory environment.
+This is a repository of the paper **"BAND-2k: Banding Artifact Noticeable Database for Banding Detection and Quality Assessment"** (authored by **Zijian Chen, Wei Sun, Jun Jia, Fangfang Lu, Zicheng Zhang, Jing Liu, Ru Huang, Xiongkuo Min, and Guangtao Zhai*.** )
+
+We constructed so far the largest banding-affected database,  named Banding Artifact Noticeable 2k Database (BAND-2k). It contains 2,000 distorted images clipped from over 870 source videos with four encoding schemes: H.264, H.265, VP9, and bit-depth manipulation. A total of 44,371 scores were collected by 23 non-experienced subjects in an offline laboratory environment.
 
 ## Visualization of BAND-2k Database
 ![The example images in BAND-2k Database](https://github.com/zijianchen98/BAND-2k/blob/main/examples.jpg)
