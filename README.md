@@ -4,7 +4,7 @@
 <a href="https://github.com/zijianchen98/BAND-2k"><img src="https://visitor-badge.laobi.icu/badge?page_id=zijianchen98/BAND-2k"/></a>
     <a href="https://github.com/zijianchen98/BAND-2k"><img src="https://img.shields.io/github/stars/zijianchen98/BAND-2k"/></a>
     <a href="https://arxiv.org/abs/2311.17752"><img src="https://img.shields.io/badge/Arxiv-2311:17752-red"/></a>
-    <a href="https://github.com/Q-Future/Q-Bench/releases/tag/v1.0.1.1014datarelease"><img src="https://img.shields.io/badge/Database-Release-green"></a>
+    <a href="https://github.com/zijianchen98/BAND-2k"><img src="https://img.shields.io/badge/Database-Release-green"></a>
     <a href="https://github.com/zijianchen98/BAND-2k"><img src="https://img.shields.io/badge/Awesome-BAND_2k-orange"/></a>
 </div>
 
