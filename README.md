@@ -1,8 +1,22 @@
-# BAND-2k Database
-A banding artifact database for Deep Learning of Image Quality Assessment. We will opensource the database and code in the future.
+<div align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zijianchen98/BAND-2k) [![](https://img.shields.io/github/stars/zijianchen98/BAND-2k)](https://github.com/zijianchen98/BAND-2k)
+<div>
+
+<a href="https://github.com/zijianchen98/BAND-2k"><img src="https://visitor-badge.laobi.icu/badge?page_id=zijianchen98/BAND-2k"/></a>
+    <a href="https://github.com/zijianchen98/BAND-2k"><img src="https://img.shields.io/github/stars/zijianchen98/BAND-2k"/></a>
+    <a href="https://arxiv.org/abs/2311.17752"><img src="https://img.shields.io/badge/Arxiv-2311:17752-red"/></a>
+    <a href="https://github.com/Q-Future/Q-Bench/releases/tag/v1.0.1.1014datarelease"><img src="https://img.shields.io/badge/Database-Release-green"></a>
+    <a href="https://github.com/zijianchen98/BAND-2k"><img src="https://img.shields.io/badge/Awesome-BAND_2k-orange"/></a>
+
+<div>
+
+<h1>BAND-2k: Banding Artifact Noticeable Database for Banding Detection and Quality Assessment</h1>
+
+_How banding artifacts affect the viewing quality?_
+
+<div style="width: 80%; text-align:center; margin:auto;">
+<img style="width:100%" src="Subjective.jpg">
+</div>
 
 
 ## Introduction
@@ -10,8 +24,10 @@ This is a repository of the paper [**"BAND-2k: Banding Artifact Noticeable Datab
 
 We constructed so far the largest banding-affected database,  named Banding Artifact Noticeable 2k Database (BAND-2k). It contains 2,000 distorted images clipped from over 870 source videos with four encoding schemes: H.264, H.265, VP9, and bit-depth manipulation. A total of 44,371 scores were collected by 23 non-experienced subjects in an offline laboratory environment.
 
-## Visualization of BAND-2k Database
-![The example images in BAND-2k Database](https://github.com/zijianchen98/BAND-2k/blob/main/examples.jpg)
+## Visualization
+![Sample images in BAND-2k Database](https://github.com/zijianchen98/BAND-2k/blob/main/examples.jpg)
+![Diversity](./quantized.jpg)
+
 
 ## Database Link
 We have uploaded the BAND-2k database to both OneDrive and Baidu Netdisk, and the download links are as follows:
