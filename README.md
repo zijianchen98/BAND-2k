@@ -1,5 +1,8 @@
 # BAND-2k Database
 A banding artifact database for Deep Learning of Image Quality Assessment. We will opensource the database and code in the future.
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zijianchen98/BAND-2k) [![](https://img.shields.io/github/stars/zijianchen98/BAND-2k)](https://github.com/zijianchen98/BAND-2k)
+
 
 ## Introduction
 This is a repository of the paper [**"BAND-2k: Banding Artifact Noticeable Database for Banding Detection and Quality Assessment"**](https://arxiv.org/abs/2311.17752) (authored by **Zijian Chen, Wei Sun, Jun Jia, Fangfang Lu, Zicheng Zhang, Jing Liu, Ru Huang, Xiongkuo Min, and Guangtao Zhai*.** )
@@ -11,7 +14,7 @@ We constructed so far the largest banding-affected database,  named Banding Arti
 
 ## Database Link
 We have uploaded the BAND-2k database to both OneDrive and Baidu Netdisk, and the download links are as follows:
-[OneDrive](https://1drv.ms/u/s!AgLwywHLkSEMk1H0jkLCGOVZAyrA?e=3yQHAV) 
+[OneDrive](https://1drv.ms/u/s!AgLwywHLkSEMk1H0jkLCGOVZAyrA?e=3yQHAV);
 [Baidu Netdisk](https://pan.baidu.com/s/1bhXsufGuGse_oCKcanlkSQ)  Code: f6w7
 
 
