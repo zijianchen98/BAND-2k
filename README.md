@@ -19,7 +19,7 @@ _How banding artifacts affect the viewing quality?_
 
 
 ## Introduction
-This is a repository of the paper [**"BAND-2k: Banding Artifact Noticeable Database for Banding Detection and Quality Assessment"**](https://arxiv.org/abs/2311.17752) (authored by **Zijian Chen, Wei Sun, Jun Jia, Fangfang Lu, Zicheng Zhang, Jing Liu, Ru Huang, Xiongkuo Min, and Guangtao Zhai*.** )
+This is a repository of the paper [**"BAND-2k: Banding Artifact Noticeable Database for Banding Detection and Quality Assessment"**](https://arxiv.org/abs/2311.17752) (authored by **Zijian Chen, Wei Sun*, Jun Jia, Fangfang Lu, Zicheng Zhang, Jing Liu, Ru Huang, Xiongkuo Min, and Guangtao Zhai*.** )
 
 We constructed so far the largest banding-affected database,  named Banding Artifact Noticeable 2k Database (BAND-2k). It contains 2,000 distorted images clipped from over 870 source videos with four encoding schemes: H.264, H.265, VP9, and bit-depth manipulation. A total of 44,371 scores were collected by 23 non-experienced subjects in an offline laboratory environment.
 
