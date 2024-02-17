@@ -53,14 +53,18 @@ We have uploaded the BAND-2k database to both OneDrive and Baidu Netdisk, and th
 ## Citation
 Please feel free to cite our paper if you use the BAND-2k database in your research:
 ```
-@ARTICLE{chen2024band,
+@article{chen2024band,
   author={Chen, Zijian and Sun, Wei and Jia, Jun and Lu, Fangfang and Zhang, Zicheng and Liu, Jing and Huang, Ru and Min, Xiongkuo and Zhai, Guangtao},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={BAND-2k: Banding Artifact Noticeable Database for Banding Detection and Quality Assessment}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
+  pages={1-16},
   doi={10.1109/TCSVT.2024.3366522}}
+}
+@article{chen2023fs,
+  title={FS-BAND: A Frequency-Sensitive Banding Detector},
+  author={Chen, Zijian and Sun, Wei and Zhang, Zicheng and Huang, Ru and Lu, Fangfang and Min, Xiongkuo and Zhai, Guangtao and Zhang, Wenjun},
+  journal={arXiv preprint arXiv:2311.18216},
+  year={2023}
 }
 ```
