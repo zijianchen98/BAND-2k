@@ -46,7 +46,8 @@ We constructed so far the largest banding-affected database,  named Banding Arti
 
 ## Database Link
 We have uploaded the BAND-2k database to both OneDrive and Baidu Netdisk, and the download links are as follows:
-[OneDrive](https://1drv.ms/u/s!AgLwywHLkSEMk1PoFcR3n7NrrYsS?e=qDEfSB);
+[OneDrive](https://1drv.ms/u/c/0c2191cb01cbf002/EQLwywHLkSEggAzTCQAAAAAB3NqW8zb7sAA1I6rA81qK4w?e=2rKO3I);
+
 [Baidu Netdisk](https://pan.baidu.com/s/1FAqIEePh795eZQYeFASQdg)  Code: knnn
 
 
