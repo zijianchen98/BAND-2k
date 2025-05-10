@@ -26,7 +26,6 @@ We constructed so far the largest banding-affected database,  named Banding Arti
 ---
 
 ### :triangular_flag_on_post: Updates/Changelog
-- We are currently organizing the code for BAND-2k may bring as soon as possible.
 - **Jan 08, 2024**. Reupdate the BAND-2k database to Onedrive and Baidu Netdisk (fixed the filename errors).
 ---
 
